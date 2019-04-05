@@ -1,10 +1,9 @@
-JavaScript Npm "nps" Demo
-=========================
+JavaScript Npm "nps" Call Another Task Demo
+============================================
+
+使用`nps someTask`来在一个task中调用另一个
 
 ```
 npm install
 npm start
-npm start demo
-npm start hello
-npm start hello.another
 ```

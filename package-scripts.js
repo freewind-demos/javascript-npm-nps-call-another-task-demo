@@ -1,12 +1,7 @@
 module.exports = {
   scripts: {
-    default: 'echo 1111',
-    hello: {
-      default: 'echo 2222',
-      another: 'echo 3333'
-    },
-    demo: {
-      default: 'node hello.js'
-    }
+    default: 'npm start hello && nps hello2',
+    hello1: 'echo hello1',
+    hello2: 'echo hello2'
   }
 };
